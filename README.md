@@ -21,3 +21,4 @@ CEC-IDE 软件研发工具采用微内核、形式化验证、比 Visual Studio 
 <img src="https://github.com/qian-o/OpenCEC-IDE/assets/84434846/faf3ee5b-ebcf-4695-90e2-3584bbc3cbeb" width="5%">
 
 3. 支持東雪蓮Official：https://space.bilibili.com/1437582453
+<img src="https://cdn-community.codemao.cn/47/community/d2ViXzMwMDFfNDM4NDAzXzBfMTY5Mjk0MTkzNzY4MV9lZjJhZjY3OA.png" width="5%">

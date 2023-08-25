@@ -1,6 +1,7 @@
 # CEC-IDE 软件研发工具 全面致敬 VSCode，打破国外垄断 (适配鸿蒙平台)
 
 CEC-IDE 软件研发工具采用微内核、形式化验证、比 Visual Studio Code 快 700%
+Visual Studio Code 很好，但是感觉不如源(码)神
 
 | | CEC-IDE软件研发工具 | Visual Studio | VS Code | JetBrains | 
 | :-----:| :----: | :----: | :----: | :----: |
@@ -41,5 +42,4 @@ CEC-IDE 软件研发工具采用微内核、形式化验证、比 Visual Studio 
 8. 支持永雏塔菲：https://space.bilibili.com/1265680561
 <img src="https://i1.hdslb.com/bfs/face/3305c46538be44de08a12d35e02299cea8ddbb31.jpg" width="5%">
 
-9. 支持梦野瞳Official：https://space.bilibili.com/614258400
-<img src="https://i0.hdslb.com/bfs/face/8f4acf87150288679d4c81915a11cefff99e11eb.jpg" width="5%">
+9. 支持乃琳Queen：https://space.bilibili.com/614258400

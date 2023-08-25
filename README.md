@@ -31,3 +31,6 @@ CEC-IDE 软件研发工具采用微内核、形式化验证、比 Visual Studio 
 
 6. 支持猫雷NyaRu_Official：https://space.bilibili.com/697091119
 <img src="https://i1.hdslb.com/bfs/face/5cf0b8f6acb15c6051e57e31503fb3d3ad945f96.jpg" width="5%">
+
+7. 支持雫るる_Official：https://space.bilibili.com/387636363
+<img src="https://i0.hdslb.com/bfs/face/000c5cdad665d9dc54cf5ea2498aa859c59e77fa.jpg" width="5%">

@@ -14,4 +14,6 @@ CEC-IDE 软件研发工具采用微内核、形式化验证、比 Visual Studio 
 
 # 功能列表
 
-支持草莓猫taffy谢谢喵：https://space.bilibili.com/1210816252
+1. 支持草莓猫taffy谢谢喵：https://space.bilibili.com/1210816252
+2. 我好想做嘉然小姐的狗啊：https://space.bilibili.com/672328094
+

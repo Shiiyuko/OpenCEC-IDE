@@ -1,0 +1,1 @@
+open https://ys.mihoyo.com/cloud/?utm_source=default#/

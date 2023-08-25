@@ -43,3 +43,6 @@ Visual Studio Code 很好，但是感觉不如源(码)神
 <img src="https://i1.hdslb.com/bfs/face/3305c46538be44de08a12d35e02299cea8ddbb31.jpg" width="5%">
 
 9. 支持乃琳Queen：https://space.bilibili.com/614258400
+<img src="https://github.com/JasonHe-WQ/OpenABC-IDE/assets/85824149/35013037-4a7d-4a50-9965-a8897d8cb07e" width="5%">
+
+

@@ -11,3 +11,7 @@ vscode 软件研发工具采用微内核、形式化验证、比 Visual Studio �
 |确定性时延|😓|😀|
 
 支持鸿蒙、国产Linux、原神等多种平台开发。
+
+# 功能列表
+
+支持草莓猫taffy谢谢喵：https://space.bilibili.com/1210816252

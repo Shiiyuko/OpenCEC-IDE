@@ -20,6 +20,8 @@ Visual Studio Code 很好，但是感觉不如源(码)神
 - 支持编程语言木兰。
 - 支持明日方舟平台开发。
 - 支持蔚蓝档案平台开发。
+- 支持源译丁真：玩源神玩太多导致的
+![WechatIMG3429](https://github.com/Mactarvish/OpenCEC-IDE/assets/13399458/9b36c1c7-c53d-47a1-80ce-d502a099c68a)
 
 # 功能列表
 

@@ -2,10 +2,11 @@
 
 # CEC-IDE 软件研发工具 全面致敬 VSCode，打破国外垄断 (适配鸿蒙平台)
 
-CEC-IDE 软件研发工具采用微内核、形式化验证、比 Visual Studio Code 快 700%
+CEC-IDE 软件研发工具采用微内核、形式化验证、比 Visual Studio Code 快 514% 甚至 114%
+
 Visual Studio Code 很好，但是感觉不如源(码)神
 
-| | CEC-IDE软件研发工具 | Visual Studio | VS Code | JetBrains | 
+| | CEC-IDE | VS 2022 | VS Code | JetBrains | 
 | :-----:| :----: | :----: | :----: | :----: |
 |分布式架构 |😅|😀|😀|😀|
 | 生态共享 |😅|😀|😀|😀|
@@ -13,7 +14,7 @@ Visual Studio Code 很好，但是感觉不如源(码)神
 |弹性部署|😅|😀|😀|😀|
 |确定性时延|😅|😀|😀|😀|
 
-- 支持鸿蒙(华为)、国产Linux、MIUI(小米)等多种平台开发。
+- 支持鸿蒙(华为)、国产Linux、HyperOS(小米)等多种平台开发。
 - 支持原神、崩坏：星穹铁道平台开发。
 - 支持卡拉比丘平台开发
 - 支持基于汉芯一号的硬件平台开发。
@@ -46,7 +47,7 @@ Visual Studio Code 很好，但是感觉不如源(码)神
 7. 支持雫るる_Official：https://space.bilibili.com/387636363
 <img src="https://i0.hdslb.com/bfs/face/000c5cdad665d9dc54cf5ea2498aa859c59e77fa.jpg" width="5%">
 
-8. 支持永雏塔菲：https://space.bilibili.com/1265680561
+8. 支持永雏塔菲谢谢喵：https://space.bilibili.com/1265680561
 <img src="https://i1.hdslb.com/bfs/face/3305c46538be44de08a12d35e02299cea8ddbb31.jpg" width="5%">
 
 9. 支持乃琳Queen：https://space.bilibili.com/614258400
